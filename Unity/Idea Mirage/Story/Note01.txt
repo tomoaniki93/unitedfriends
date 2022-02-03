@@ -1,0 +1,198 @@
+Contexte 1 => le pj est propulsé dans un autre monde par une faction qui souhaite se servir de lui et des autres comme soldats dans une guerre l'opposant à une autre faction.
+
+Quelles sont ces factions ? Comment se sont-elles créées ? qu'est-ce qui les réunies ? => le territoire ?
+										       => la race (dans l'hypothèse d'intégrer elfes, orcs ou autres) ?
+										       => la religion ?
+										       => une façon singulière d'appréhender le monde (on peut imaginer par exemple une restriction
+											  particulière au sujet de la magie (interdiction de la nécromancie), une tolérance plus ou moins
+											  grande aux monstres, l'autorisation de l'esclavage ou encore une organisation politique différente) ?
+
+De ces spécifités découlerait la raison de leur conflit => volonté d'hégémonie politique ou religieuse, racisme.
+Là-dessus, il serait possible d'intégrer une menace externe, dangereuse pour les deux factions que le pj pourrait choisir.
+
+									_________________________________________________________________
+
+L'arrivée du pj => est-il simplement téléporté dans ce nouveau monde ? est-ce une résurrection ? 
+
+La résurrection offre à mon sens plus d'avantage. 
+_Premièrement, il faut expliquer comment cela est possible car si l'on peut se contenter d'un "ta gueule, c'est magique" dans le cadre
+d'une intervention divine, si c'est le fait de mortels, il faut une explication sinon rationelle tout du moins crédible pour une réincarnation depuis un autre pan de réalité.
+Si l'on part du principe qu'il s'agit d'une sorte de rituel nécromantique élaboré durant lequel on ne peut ramener que l'âme, cela permet au pj d'incarner n'importe quelle race sans problème
+majeur de cohérence, quitte à glisser dans une ligne de dialogue une pirouette scénaristique bâteau du style => "C'est un rituel complexe, un imprévu peut toujours arriver."
+													     => "L'âme influence fortement le corps, votre apparence actuelle reflète votre personnalité"
+														(la même pirouette permettrait également le choix de classe)
+
+_Deuxièmement, cela offre au pj un choix rationnel quand à la faction qu'il choisit. Outre les spécificités de celles-ci, et leurs actions qui devront rester ambigües ou tout du moins
+logiques et légitimes selon leurs propres points de vue, le pj doit faire face à des faits concrets :
+=> Une faction lui offre ni plus ni moins une seconde existence (bien plus trépidante que la première)
+=> Cette existence s'accompagne de contraintes non négligeables => être un zombie, non décrépi certes, mais un zombie tout de même (symbolisé par le fait qu'un pj ne peut pas mourir définitivement)
+								=> pas de repos éternel, ce qui, dans un monde en guerre, n'est pas forcément réjouissant 
+=> La faction adverse a pour but, entre autres choses, de faire cesser cette pratique
+
+En tant que pj, on peut donc tout autant très bien s'accomoder de cette nouvelle vie, potentiellement éternelle et par conséquent être reconnaissant à la faction qui vous a amené et donc épouser
+sa cause ; ou bien y voir une malédiction, et jurer de faire cesser cette pratique en rejoignant la faction adverse. On peut également simplement vouloir rémédier à notre état et par conséquent choisir l'une
+ou l'autre faction selon que l'on estime que l'on a de meilleurs chances d'y parvenir en restant enquêter à l'intérieur ou au contraire en allant voir chez les scientifiques adverses. Et enfin, on 
+peut également choisir l'une au l'autre faction suivant leurs spécificités politiques, religieuses, culturelles ou encore leur façon de faire sur un champ de bataille (choses dont on aura un 
+aperçu dans le scénario/didacticiel).
+
+Ce statut de "zombie" (il faudrait trouver un terme plus sexy) pourrait avoir des applications en terme de mécanique de gameplay. Si l'on considère que cet état est instable, et on peut 
+légitimement penser qu'il l'est alors cela induit une manière de le stabiliser => création d'une ressource particulière dropable en faible pourcentage, en récompense de certaines quêtes
+=> choisir après une mort du pj d'utiliser une certaine quantité de ressource pour prévenir la perte d'xp
+=> débloquer des compétences
+=> obtenir un buff temporaire
+=> se déplacer plus rapidement entre les villes
+=> à haut niveau, pourrait servir pour des crafts ou du cosmétique
+=> possibilité de reset
+
+							__________________________________________________________________________
+
+Une quête "personnelle" (un peu à la manière de the secret world) pourrait également être une idée à creuser. Elle ferait office de fil rouge tout au long du pex (différente dans la forme
+suivant la faction) et permettrait d'expliquer au pj ce qu'il est devenu exactement, ainsi que d'approfondir le lore des différentes factions. Il faudrait évidemment que cela aboutisse à une
+conclusion qui déciderait le pj à continuer de se battre au sein de sa faction, soit par l'espoir lointain de remédier à son état, soit par l'impossibilité de le faire et donc la nécessité
+de mettre un terme au conflit afin de revenir à une existence plus pacifique.
+
+						___________________________________________________________________________________
+
+Une salle rectangulaire, faiblement éclairée par quatre torches fixées sur les murs. Un cercle gravé de runes magiques (je pense au visuel d'un storm gust pendant le cast par exemple) dessiné 
+au sol émet une lueur rougeâtre. Le PJ se trouve, allongé, au centre du cercle. Il se redresse en position assise.
+
+PJ : *regarde sa main* "_Qu'est-ce que...?"
+
+??? : "Prenez votre temps."
+
+Un homme s'approche du cercle, il porte une longue robe ouvragée et ce qui ressemble à un carnet dans ses mains. Il se tient dans l'obscurité et les yeux du PJ, pas encore habitués à la lumière ambiante, ne peuvent
+distinguer ses traits. Le PJ cherche alors à se mettre debout mais son corps le trahit. La voix de l'homme résonne alors à nouveau.
+
+??? : "Tachez de ne pas trop vous agiter pour le moment. Vous venez de vivre une expérience pour le moins désagréable." L'homme s'approche puis s'accroupit face au PJ. C'est un homme dans la force
+de l'âge, aux traits anguleux, à peine adoucis par un mince sourire. Il poursuit : "Je me nomme (...), maître magister de ce complexe. Quel est votre nom ?"
+
+PJ : (1)"M-Magister ? Mais que se passe-t-il enfin ? Où est-ce que je suis ?" 
+     (2)*trop sonné pour relever* "Je m'appelle PJ."
+
+(...) : (1)_"Il y a effectivement un certain nombre de choses dont nous devons nous entretenir...des présentations me semblent être un bon point de départ." 
+PJ : *avec une pointe de colère* "Je m'appelle PJ."
+
+(...) prend une note dans son carnet puis se redresse avant de s'éloigner de quelques pas. Sa posture se raidit. Il se retourne et reprend.
+
+(...) : "Bien PJ, avant de répondre à vos questions, je souhaiterais que vous vous remémoriez votre dernier souvenir."
+
+PJ : "Mais enfin, à quoi est-ce que tout cela rime ? Qui..." *écran noir* "Arg...Ma tête !" *écran noir traversé par une lueur blanche* "Je..."
+     " (ligne de dialogue dépendant du décès => accident de voiture/meurtre/crise cardiaque/autre => peu/pas d'influence sur la suite (peut-être dans le cadre d'une quête personnelle))"
+     "Je suis mort..."
+
+(...) : "Exact, votre vie a brutalement pris fin dans votre monde."
+
+PJ : *frappé de stupeur* "Mon...monde ?"
+
+(...) : "L'endroit que vous nommez la Terre. Vous vous trouvez à présent en (nom du continent). Plus précisément, nous avons fait en sorte de vous récupérer et de vous ramener ici au moyen
+d'un sortilège complexe."
+
+				__________________________________________________________________________________________________________
+
+Réflexions sur les classes :
+
+Géomancien => mage utilisant la magie de la terre => vocation tank/dps
+
+Aspect de la terre => votre peau se durcit comme la roche => augmente l'armure de X pour X secondes
+Friabilité => le sol se change en sable, ralentissant les ennemis => crée une zone de 9x9 pendant X secondes, réduit la vitesse des ennemis dans cette zone de X
+Golem de terre => vous invoquez un golem de terre qui se bat pour vous et augmente votre défense => invoque un golem de terre disposant de X pdv pendant X secondes, tant que le golem est présent
+												    vous subissez X% de dégats physiques en moins
+Démantèlement => vous détruisez votre golem de terre afin de vous protégez => détruit votre golem de terre afin de vous octroyer une barrière qui absorbe X dégats pendant X secondes
+Paume de pierre => frappe l'ennemi avec la puissance de la roche => (Tank) inflige x dégats physiques à la cible, génère de la menace
+Séisme => le sol tremble sous vos ennemis => crée une zone de 9x9 pendant x secondes, infligeant X dégats physiques aux ennemis et ayant X chances de les stun pendant X secondes
+Mur de pierre => vous faites jaillir un mur du sol, empêchant les ennemis de passer => crée un mur de 5x1 n'infligeant pas de dégats, chaque portion du mur peut encaisser 3 coups et a X chance de stun celui qui la frappe
+Pluie de pierre => vous déclenchez une pluie de pierre sur vos ennemis, leur infligeant des blessures => déclenche une pluie de pierre dans la zone ciblée, infligeant X dégats physiques par coup, chaque coup ayant X chance de déclencher un saignement
+													 infigeant X dégats physiques pendant X secondes
+Poigne de pierre => vous immobilisez un ennemi dans la roche => immobilise la cible pendant X secondes, la cible subit X dégats physique pendant X secondes
+Trait de pierre => vous lancez un rocher sur votre ennemi => (Dps) inflige X dégats physiques à la cible 
+
+Passif => tank => le golem dispose d'une aura affectant tout le groupe
+	       => possibilité de cleave sur les attaques auto
+       => Dps => les saignements font davantage de dégats
+	      => Réplique => X chance de lancer un deuxième Trait de pierre/Séisme infligeant la moitié des dégats normaux (pas de cc)
+
+
+
+Aeromancien => mage utilisant la magie de l'air => soutient/dps
+
+Elementaire d'air => vous invoquez un élementaire d'air qui se bat pour vous et augmente votre vitesse de déplacement => invoque un golem d'air disposant de X pdv pendant X secondes, tant que le
+															 le golem est présent votre vitesse de marche est augmenté de X%
+Fureur de la tempête => votre élementaire et vous vous chargez de la puissance de la tempête, augmentant votre vitesse d'incantation => Requiert Elementaire d'air. Pendant X secondes, vous et votre
+																	élementaire bénéficiez d'un bonus de X% à votre vitesse d'incantation.
+																	Votre élementaire, épuisé, se dissipe à la fin de l'effet
+Vent contraire => vous invoquez un mur de vent repoussant vos ennemis => crée un mur de 5x1 n'infligeant pas de dégats, chaque portion du mur peut encaisser 1 coup et repousse de 5 cases celui qui la frappe
+									 L'ennemi est alors ralenti de X% pendant X secondes
+Infusion de la tempête => vous enchantez une arme avec l'énergie de la tempête afin d'augmenter l'efficacité au combat de son porteur => enchante l'arme de la cible avec la magie du vent, confère un bonus de X% à la vitesse d'attaque pendant X secondes
+																	(Possibilité d'un buff plus long si le sort consomme un composant)
+Trait de foudre => vous lancez un éclair sur votre ennemi => inflige X dégats magiques à la cible
+Ouragan => vous déclenchez un ouragan sur vos ennemis, leur infligeant des blessures => déclenche un ouragan dans la zone ciblée, infligeant X dégats magiques par coup, chaque coup ayant x chance
+											de déclencher un saignement infligeant X dégats physiques pendant X secondes
+Brise revigorante => vous déclenchez une légère brise aux vertus apaisantes => soigne X pdv à la cible alliée, celle-ci reçoit X pdv supplémentaires en X secondes
+Bourrasque => vous déclenchez une violente bourrasque destabilisant votre ennemi => dissipe un effet bénéfique sur la cible
+Paratonnerre => votre élementaire d'air attire sur lui l'attention de l'ennemi, prenant les coups à votre place => votre élementaire d'air redirige sur lui le prochain sort néfaste de la cible, ne peut rediriger un sort à effet de zone
+Charge négative => vous vous chargez d'énergie négative afin d'affaiblir vos ennemis => Pendant X secondes, vos sorts Trait de foudre et Ouragan ont X chances d'infliger une brûlure à l'ennemi, lui faisant perdre X pdm en X secondes
+
+Passif => soutient => le golem dispose d'une aura affectant tout le groupe
+		   => les buff conférés sont plus importants
+       => dps => les sorts font davantage de dégats
+
+
+
+Hydromancien => mage utilisant la magie de l'eau => soutient/Dps
+
+Elementaire d'eau => vous invoquez un élementaire d'eau qui vous assiste et augmente votre régénération de mana => invoque un élementaire d'eau disposant de X pdv pendant X secondes, celui-ci soigne une cible alliée blessée
+														   pour X pdv toutes les X secondes. Tant que l'élementaire d'eau est présent, votre régénération de mana est augmentée de X%
+Ebullition => votre élementaire d'eau se charge d'énergie avant de s'évaporer, soignant tous les membres du groupe => vous dissipez votre élementaire d'eau afin de soigner X pdv à tous les membres du groupe
+Ondée => vous déclenchez une pluie fine aux vertus curatives => crée une zone de 12x12 autour du lanceur de sort pendant X secondes, les alliés présents dans la zone sont soignés de X pdv toutes les X secondes
+Vague apaisante => vous soignez un allié => soigne la cible alliée de X pdv
+Trait de glace => vous lancez un stalactite sur votre ennemi => inflige X dégats magiques à la cible
+Congélation => vous cherchez à congeler votre ennemi => inflige X dégats magiques à la cible, forte chance d'infliger à la cible le statut "gelé" (impossibilité de faire la moindre action)
+Chambre mortuaire => vous profitez d'avoir congelé un ennemi pour l'attaquer violemment à l'aide de projectiles glacés => Requiert que la cible soit affectée par le statut "gelé". Inflige X dégats magiques à la cible, celle-ci n'est plus gelée mais subie
+															  X dégats physiques supplémentaires en X secondes
+Mur de glace => vous invoquez un mur de glace pour bloquer vos ennemis => crée un mur de 5x1 n'infligeant pas de dégats, chaque portion du mur peut encaisser 3 coups et a X chances de geler celui qui la frappe
+Tempête de neige => vous déclenchez une tempête de neige sur vos ennemis, les gelant sur place => déclenche une tempête de neige dans la zone ciblée, infligeant X dégats magiques par coup, chaque coup ayant X chances de geler l'ennemi
+												  (Storm gust quoi)
+
+Passif => soutient => l'élementaire d'eau bénéficie d'une aura affectant tout le groupe
+		   => augmente les soins
+	   => Dps => augmente les dégats
+           => les sorts ont une chance de ralentir la cible
+
+
+
+Mystique/Clairvoyant => medium usant de pouvoirs psychiques => soutient
+
+Le Mystique pourrait être à la base du lore. Individu hautement connecté au monde qui l'entoure, il est capable de percevoir le monde tel qu'il est et non tel qu'il nous apparait.
+En imaginant que dans les premières heures de ce monde, les mystiques étaient rares (peut-être limité à une seule race) et disposaient d'un savoir incroyable. Mais au fil du temps, avec l'apparition
+de nouvelles races (mixité, guerre, appropriation des savoirs...) leur pouvoir et leur influence se sont considérablement affaiblis au point que le mystique ne désigne plus désormais qu'un
+mage usant de pouvoir psychique. Néanmoins surgit encore parfois un mystique disposant de pouvoir rivalisant avec ceux de ses prédécesseurs. La faction qui invoque le PJ a l'idée d'utiliser
+les pouvoirs de l'un de ces mystiques combinés à la nécromancie pour se créer une armée. La quête "personnelle" aurait pour but de dévoiler cet état de fait.
+
+Cécité => vous agissez sur l'esprit de votre ennemi pour l'aveugler temporairement => inflige le statut "cécité" (écran noir autour du personnage) à la cible pendant X secondes
+Silence => vous exercez une pression sur l'esprit de votre ennemi, l'empêchant de lancer le moindre sort => inflige le statut "silence" (impossibilité de lancer un sort) à la cible pendant X secondes
+Lien d'esprit => vous liez les esprits de vos ennemis, leur faisant partager la douleur => tous les ennemis dans la zone ciblée sont liés entre eux pendant X secondes, si un ennemi subit une attaque
+											   durant ce laps de temps, elle est répercutée pour moitié sur les ennemis qui lui sont liés
+Sommeil => vous plongez votre ennemi dans un profond sommeil => inflige le statut "sommeil" (impossibilité de faire la moindre action) à la cible pendant X secondes, le moindre dégat réveille la cible
+Cauchemar => vous vous insinuez dans les rêves de votre ennemi pour l'accabler de cauchemars => Requiert que la cible soit affectée par le statut "sommeil". Inflige X dégats magiques à la cible, celle-ci voit ses caractéristiques diminuées
+												de X durant X secondes. Non cumulable.
+Soulagement mental => vous persuadez un allié que ses blessures sont bénines => dissipe jusqu'à deux effets néfastes sur la cible alliée
+Guide spirituel => vous entrez dans un état de plénitude tel que vos alliés en oublient leurs tourments => crée une zone de 9x9 autour du lanceur de sort pendant X secondes, les alliés
+													   pénétrant dans cette zone sont immunisés aux statuts magiques néfastes. Le lanceur de sort ne peut pas bouger durant l'effet.
+Frénésie => vous plongez un allié dans une transe guerrière, augmentant les dégats qu'il inflige au prix de sa santé => confère à la cible alliée un bonus de X% aux dégats pendant X secondes, celle-ci perd X pdv durant la durée de l'effet
+Lacération de l'esprit => vous lancez une violente attaque psychique sur votre ennemi => inflige X dégats magique à la cible, celle-ci a une faible chance de recevoir un statut néfaste aléatoire
+Esprit gardien => un esprit bienveillant répond à votre appel et vous protège => invoque un esprit gardien (je pense pour le visuel à une petite flamme blanche tournant autour du PJ) pendant X secondes, tant que le gardien est présent
+										 vous subissez X% de dégats magiques en moins
+Esprit frappeur => un esprit malin répond à votre appel et attaque votre ennemi => invoque un esprit frappeur disposant de X pdv pendant X secondes, ses attaques automatiques ont une forte chance d'infliger un statut aléatoire à sa cible
+										   (potentiellement trop craqué, donc long temps de cast, faible vitesse d'attaque ou faible durée)
+
+Passif => l'esprit gardien dispose d'une aura affectant tout le groupe
+       => les débuff durent plus longtemps
+
+
+
+
+
+
+
+
+
